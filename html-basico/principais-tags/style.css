@@ -1,0 +1,33 @@
+.container {
+    background: rgb(202, 197, 197);
+    width: 400px;
+    height: 560px;
+    border: 2px solid;
+}
+.container-2 {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.bloco-1 {
+    background: rgb(155, 152, 152);
+    width: 300px;
+    padding: 10px;
+    border: 1.5px solid;
+    margin-left: 20px;
+}
+.bloco-2 {
+    background: rgb(155, 152, 152);
+    width: 300px;
+    padding: 10px;
+    border: 1.5px solid;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.bloco-3 {
+    background: rgb(155, 152, 152);
+    width: 300px;
+    padding: 10px;
+    border: 1.5px solid;
+    margin-left: 20px;
+    margin-top: 10px;
+}
