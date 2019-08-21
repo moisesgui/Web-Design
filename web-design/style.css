@@ -278,7 +278,13 @@ img {
 .footer_sociais ul li {
     display: inline-block;
 }
-
+.footer_sociais ul li a img {
+    width: 40px;
+    margin: 3px;
+}
+.footer_sociais ul li a img:hover {
+    transform: scale(1.1);
+}
 
 
 /* Copyright */
